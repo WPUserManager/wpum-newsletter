@@ -24,6 +24,7 @@ function wpum_newsletter_add_optin( $fields ) {
 			'type'        => 'checkbox',
 			'description' => $newsletter_options['subscribe_label'],
 			'priority'    => 9999,
+			'required'    => false,
 			'value'       => $newsletter_options['subscribe'] == 3,
 		);
 	}
