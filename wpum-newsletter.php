@@ -3,7 +3,7 @@
 Plugin Name: WPUM Newsletter
 Plugin URI:  https://wpusermanager.com
 Description: WP User Manager addon for the Newsletter plugin.
-Version:     1.1.1
+Version:     1.1.2
 Author:      WP User Manager
 Author URI:  https://wpusermanager.com/
 License:     GPLv3+
