@@ -1,0 +1,6 @@
+{
+    "type": "addon",
+    "channels": { "wordpress_org": true, "edd": false },
+    "main_file": "wpum-newsletter.php",
+    "version_locations": ["header", "package_json"]
+}
