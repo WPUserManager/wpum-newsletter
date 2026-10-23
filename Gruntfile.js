@@ -33,6 +33,7 @@ module.exports = function( grunt ) {
 					'!composer.lock',
 					'!composer.json',
 					'!.github/**',
+					'!.wordpress-org/**',
 					'!release.json',
 					'!playwright.config.ts',
 					'!tsconfig.json',
